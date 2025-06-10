@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="RApbN1IzywB_qlICTdMQ">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r6s5DOyABvp--Q0eFtNs-2" target="r6s5DOyABvp--Q0eFtNs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-2" value="SOLID : is an acronym for five object oriented programming principles that helps us to design the scalable and maintainable systems." style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="700" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r6s5DOyABvp--Q0eFtNs-3" target="r6s5DOyABvp--Q0eFtNs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-3" value="1. S : SRP(Single Responsibility Principle)" style="whiteSpace=wrap;html=1;fontSize=25;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r6s5DOyABvp--Q0eFtNs-5" target="r6s5DOyABvp--Q0eFtNs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-5" value="O Open / closed Principle : Entities should be open for extension but closed for modification." style="whiteSpace=wrap;html=1;fontSize=25;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="335" y="510" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r6s5DOyABvp--Q0eFtNs-7" target="r6s5DOyABvp--Q0eFtNs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-7" value="Software entities like classes , functions, modules should be open for extension but closed for modification." style="whiteSpace=wrap;html=1;fontSize=25;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="770" width="350" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r6s5DOyABvp--Q0eFtNs-9" target="r6s5DOyABvp--Q0eFtNs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-9" value="L : Liskov Substitution Principle (LSP) : Subtypes must be substituted for their respective base types." style="whiteSpace=wrap;html=1;fontSize=25;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="1080" width="345" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r6s5DOyABvp--Q0eFtNs-11" target="r6s5DOyABvp--Q0eFtNs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r6s5DOyABvp--Q0eFtNs-11" target="r6s5DOyABvp--Q0eFtNs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-11" value="I - Interface Segregation Principle(ISP) : Clients shouldn’t be forced to depend on methods they do not use." style="whiteSpace=wrap;html=1;fontSize=25;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1330" width="480" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-13" value="Don&#39;t make big fat interfaces with too many responsibilites&amp;nbsp;&lt;div&gt;instead , split them into smaller , focused interfaces , so that users/ classes can choose only whatever they want.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=25;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1410" width="510" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="r6s5DOyABvp--Q0eFtNs-15" value="D :Dependency Inversion Principle (DIP) : High-level modules should not be dependent on low level modules , both should depends on abstraction." style="whiteSpace=wrap;html=1;fontSize=25;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1660" width="450" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
